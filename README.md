@@ -10,4 +10,4 @@ python3 FindSheep.py --source_image=***.png --target_image=***.png
 ```
 
 # 效果图
-Figure_1.png
+![Figure] (https://github.com/CH-WAuo/FindSheep/edit/master/Figure_1.png)
